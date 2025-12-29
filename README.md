@@ -220,10 +220,8 @@ After completing this repository, you will be able to:
 
 ## 👤 Author
 
-**Pramod**
-Founder – The Testing Academy
-
-🌐 Website: **[https://thetestingacademy.com](https://thetestingacademy.com)**
+**Abhishek Sawlikar**
+www.linkedin.com/in/abhishek-sawlikar
 
 ---
 
